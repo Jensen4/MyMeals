@@ -1,4 +1,4 @@
-# MyMeals
+# MyMeal
 Team Name: we <3 CS
 Domain: Social Media
 
